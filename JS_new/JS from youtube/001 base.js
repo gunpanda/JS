@@ -61,16 +61,33 @@
 // } else { console.log('Курс не получился')
 // }
 
-const isReady = true
+// const isReady = true
 // if(isReady)
 // console.log('Все готово')
 // else {
 //     console.log('Не готово')
 // }
 
-isReady ? console.log('Done') : console.log('Nope')
+// isReady ? console.log('Done') : console.log('Nope')
 // const num1 = 42
 // const num2 = '42'
 
 // console.log(num1 === num2)
+
+// function calculateAge(year) {
+// return 2022 - year
+// }
+
+// // console.log(calculateAge(1981))
+// // console.log(calculateAge(1988))
+// // console.log(calculateAge(2015))
+
+// function logInfoAbout(Name, year) {
+// const age = calculateAge(year)
+
+// console.log('Возраст' + age)
+// }
+// logInfoAbout(Name: 'Alex', year: 1981)
+
+// const cars = ['mazda', 'mersedes' 'bmw']
 
