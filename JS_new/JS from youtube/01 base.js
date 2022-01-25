@@ -27,23 +27,24 @@
 // }
 
 
-const person = {
-    firstName: 'Alex',
-    lastName:'Zoro',
-    year: 1981,
-    languages: ['RU','EN', 'ESP'],
-    hasWife:true,
-    greet: function(){
-        console.log('greet from person')
-    }
-}
-console.log(person.firstName)
-console.log(person['lastName'])
-const key = 'year'
-console.log(person[key])
-person.hasWife = false
-console.log(person)
-person.isProgrammer = false
-console.log(person)
-console.log(person)
-person.greet()
+// const person = {
+//     firstName: 'Alex',
+//     lastName:'Zoro',
+//     year: 1981,
+//     languages: ['RU','EN', 'ESP'],
+//     hasWife:true,
+//     greet: function(){
+//         console.log('greet from person')
+//     }
+// }
+// console.log(person.firstName)
+// console.log(person['lastName'])
+// const key = 'year'
+// console.log(person[key])
+// person.hasWife = false
+// console.log(person)
+// person.isProgrammer = false
+// console.log(person)
+// console.log(person)
+// person.greet()
+
