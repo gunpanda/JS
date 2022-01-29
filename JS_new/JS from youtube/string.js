@@ -1,12 +1,13 @@
 // function getRandomBetween(min, max) {
 //     return Math.floor(Math.random() * (max - min + 1) + min)
 // }
-// console.log( getRandomBetween (10 ,42));
+// console.log(getRandomBetween(10, 42));
 
 // const Myname = "Alex"
 // const age = 40
-// function getAge () {
-// return age
+
+// function getAge() {
+//     return age
 // }
 
 // // const output = 'Hi my name is ' + Myname + ' and my age is ' + age + ' years old'
@@ -14,7 +15,7 @@
 
 // console.log(output);
 
-// const output  = `
+// const output = `
 // <div> This is div </div>
 // <p> this is p </p>
 // `
@@ -32,12 +33,12 @@
 // console.log(Myname.repeat('3'));
 
 
-// const  string = '       password              '
+// const string = '       password              '
 // console.log(string.trim());
 
 // function logPerson(s, Myname, age) {
 //     console.log(s, Myname, age);
-//     return `${s[0]} ${Myname} ${s[1]} ${age} ${s[2]}`  
+//     return `${s[0]} ${Myname} ${s[1]} ${age} ${s[2]}`
 // }
 
 // const personName = 'Alex'
